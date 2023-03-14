@@ -17,3 +17,8 @@ Compile with `qmk compile -kb crkbd -km n3a9` and flash with `qmk flash -kb crkb
 ## Keymap JSON
 
 To generate JSON run `qmk -v c2json -km n3a9 -kb crkbd/rev1 $PATH/qmk_firmware/keyboards/crkbd/keymaps/n3a9/keymap.c --no-cpp`
+
+## Cases
+
+- With legs is from [here](https://www.thingiverse.com/thing:4901714)
+- Without legs is from [here](https://www.thingiverse.com/thing:5027615), remixed to set the tenting points to M3 (2.5mm) screws
